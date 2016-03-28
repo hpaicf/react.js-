@@ -1,0 +1,14 @@
+{
+  "name": "test1_1",
+  "version": "1.0.0",
+  "description": "testreact",
+  "main": "index.js",
+  "scripts": {
+    "dev": "browser-sync start --server --files \"*.*\""
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.11.2"
+  }
+}
